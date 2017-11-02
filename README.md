@@ -1,2 +1,2 @@
 # debian-mediacentre
-My mediacentre configuration
+My mediacentre configuration for Debian
